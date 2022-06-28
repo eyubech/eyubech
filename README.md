@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub Ech-chetyouy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Back-end developer from Morocco</h3>
 
 - 🔭 I’m currently working on **42 cursus**
 
